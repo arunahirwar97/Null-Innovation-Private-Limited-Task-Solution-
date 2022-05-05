@@ -1,0 +1,3 @@
+What is etl (extract transform load)?
+Defining etl
+A three-step data integration process used to by organizations to combine and synthesize raw data from multiple data sources into a data warehouse, data lake, data store, relational database or any other application. data migrations and cloud data integrations are common use cases for etl.
